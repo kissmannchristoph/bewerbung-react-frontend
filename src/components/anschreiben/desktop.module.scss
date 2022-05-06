@@ -1,0 +1,89 @@
+.nav {
+  margin-left: 200px;
+  width: calc(100% - 250px);
+  height: 0;
+  border-top: 50px solid $red;
+  border-left: 50px solid transparent;
+  display: block;
+  position: absolute;
+  background-color: unset;
+  > div {
+    position: absolute;
+    right: 0;
+    line-height: 50px;
+    height: 50px;
+    margin-top: -50px;
+  }
+}
+
+.contentBase {
+  display: grid;
+}
+
+.codeBackground {
+  top: unset !important;
+  //position: unset;
+  //width: unset;
+  //height: unset;
+  // top: unset;
+}
+
+.b_content {
+  height: 100%;
+  display: block;
+}
+.verticalBlue {
+  position: absolute;
+  width: 100px;
+  height: 100%;
+  background-color: rgba($blue, 0.9);
+  display: grid;
+
+  padding: unset;
+
+  .after {
+    display: block !important;
+    place-content: unset !important;
+    position: absolute;
+    left: 50px;
+    height: 100px;
+    top: 50%;
+    z-index: 2;
+
+    img {
+      width: 100%;
+      height: auto;
+    }
+  }
+}
+
+.secondBlue {
+  width: 0;
+  height: 0;
+  border-top-style: solid;
+  border-top-color: transparent;
+  border-left-style: solid;
+  border-left-color: rgba($blue, 0.9);
+  display: block;
+  position: absolute;
+  left: 100px;
+}
+
+.content {
+  width: 90%;
+  margin-top: 50px;
+  margin-left: 0 auto;
+  display: block;
+
+  //background-color: rgba(255, 255, 255, 0.5);
+
+  .container {
+    display: block;
+
+    span {
+      > div {
+        font-size: 30px;
+      }
+    }
+  }
+}

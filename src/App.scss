@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+
+  font-family: $default_text_font;
+}
+
+.App > div {
+  height: 100%;
+  width: 100%;
+
+  position: absolute;
+
+  overflow: hidden;
+}

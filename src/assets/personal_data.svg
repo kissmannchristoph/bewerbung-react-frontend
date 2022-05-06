@@ -1,0 +1,44 @@
+<svg id="personal_data" xmlns="http://www.w3.org/2000/svg" width="396.258" height="359.663" viewBox="0 0 396.258 359.663">
+  <path id="Pfad_1564" data-name="Pfad 1564" d="M0,0H396.258V359.663H0Z" fill="none"/>
+  <g id="personal_data_header" transform="translate(0.286 10.642)">
+    <text id="Persönliche_Daten" data-name="Persönliche Daten" transform="translate(0 37)" fill="rgba(0,0,0,0.87)" font-size="39" font-family="Roboto-Light, Roboto" font-weight="300" letter-spacing="-0.015em"><tspan x="0" y="0">Persönliche Daten</tspan></text>
+    <line id="Linie_201" data-name="Linie 201" x2="395.972" transform="translate(0 60.493)" fill="none" stroke="#000" stroke-width="2" opacity="0.23"/>
+  </g>
+  <g id="personal_data_content" transform="translate(0.814 79.736)">
+    <g id="right" transform="translate(101.403 0)">
+      <g id="line" transform="translate(0 138.318)">
+        <text id="_491602204967" data-name="+491602204967" transform="translate(0 18)" fill="rgba(0,0,0,0.87)" font-size="19" font-family="Roboto-Light, Roboto" font-weight="300" letter-spacing="-0.008em"><tspan x="0" y="0">+491602204967</tspan></text>
+      </g>
+      <g id="line-2" data-name="line" transform="translate(0 50.445)">
+        <text id="Gartenstraße_22_84577_Tüssling" data-name="Gartenstraße 22
+84577 Tüssling" transform="translate(0 19)" fill="rgba(0,0,0,0.87)" font-size="20" font-family="Roboto-Light, Roboto" font-weight="300" letter-spacing="-0.008em"><tspan x="0" y="0">Gartenstraße 22</tspan><tspan x="0" y="25">84577 Tüssling</tspan></text>
+      </g>
+      <g id="line-3" data-name="line" transform="translate(0)">
+        <text id="Christoph_Gerret_Kissmann" data-name="Christoph Gerret Kissmann" transform="translate(0 19)" fill="rgba(0,0,0,0.87)" font-size="20" font-family="Roboto-Light, Roboto" font-weight="300" letter-spacing="-0.008em"><tspan x="0" y="0">Christoph Gerret Kissmann</tspan></text>
+      </g>
+      <g id="line-4" data-name="line" transform="translate(0 188.763)">
+        <text id="kissmannchristoph_gmail.com" data-name="kissmannchristoph@gmail.com" transform="translate(0 18)" fill="rgba(0,0,0,0.87)" font-size="19" font-family="Roboto-Light, Roboto" font-weight="300" letter-spacing="-0.008em"><tspan x="0" y="0">kissmannchristoph@gmail.com</tspan></text>
+      </g>
+      <g id="line-5" data-name="line" transform="translate(0 238.395)">
+        <text id="_03.02.1998_in_Altötting" data-name="03.02.1998 in Altötting" transform="translate(0 18)" fill="rgba(0,0,0,0.87)" font-size="19" font-family="Roboto-Light, Roboto" font-weight="300" letter-spacing="-0.008em"><tspan x="0" y="0">03.02.1998 in Altötting</tspan></text>
+      </g>
+    </g>
+    <g id="left" transform="translate(0 0)">
+      <g id="Line-6" data-name="Line" transform="translate(0 138.318)">
+        <text id="Tel." transform="translate(0 17)" fill="rgba(0,0,0,0.87)" font-size="18" font-family="Roboto-Regular, Roboto" letter-spacing="-0.008em"><tspan x="0" y="0">Tel.</tspan></text>
+      </g>
+      <g id="Line-7" data-name="Line" transform="translate(0 50.445)">
+        <text id="Anschrift" transform="translate(0 18)" fill="rgba(0,0,0,0.87)" font-size="19" font-family="Roboto-Regular, Roboto" letter-spacing="-0.008em"><tspan x="0" y="0">Anschrift</tspan></text>
+      </g>
+      <g id="Line-8" data-name="Line">
+        <text id="Name" transform="translate(0 18)" fill="rgba(0,0,0,0.87)" font-size="19" font-family="Roboto-Regular, Roboto" letter-spacing="-0.008em"><tspan x="0" y="0">Name</tspan></text>
+      </g>
+      <g id="Line-9" data-name="Line" transform="translate(0 188.763)">
+        <text id="E-Mail" transform="translate(0 18)" fill="rgba(0,0,0,0.87)" font-size="19" font-family="Roboto-Regular, Roboto" letter-spacing="-0.008em"><tspan x="0" y="0">E-Mail</tspan></text>
+      </g>
+      <g id="Line-10" data-name="Line" transform="translate(0 238.395)">
+        <text id="geb." transform="translate(0 18)" fill="rgba(0,0,0,0.87)" font-size="19" font-family="Roboto-Regular, Roboto" letter-spacing="-0.008em"><tspan x="0" y="0">geb.</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

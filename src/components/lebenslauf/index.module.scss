@@ -1,0 +1,53 @@
+.nav {
+  background-color: $red;
+  height: 50px;
+  line-height: 50px;
+
+  > div {
+    place-content: center;
+    color: white;
+  }
+}
+
+.btn_group {
+  display: flex;
+  flex-flow: row;
+
+  margin-top: 8px;
+
+  justify-content: center;
+}
+
+.btn {
+  cursor: pointer;
+  //R=189 G=204 B=212
+  font-family: $default_text_font;
+  font-size: 20px;
+  background-color: rgb(189, 204, 212);
+  border-radius: 5px;
+  text-decoration: none;
+  color: $black;
+
+  padding: 5px 20px;
+  margin: 0px 10px;
+
+  transition: all 0.3s ease-in-out;
+
+  &:hover {
+    opacity: 0.85;
+  }
+}
+
+.content {
+  width: 100%;
+  display: grid;
+  img {
+    width: auto;
+    height: auto;
+    place-self: center;
+  }
+}
+
+.fit {
+  width: 90% !important;
+}

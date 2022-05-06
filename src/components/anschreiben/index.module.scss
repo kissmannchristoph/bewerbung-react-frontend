@@ -1,0 +1,75 @@
+.background {
+  background-color: $white;
+  color: $black;
+}
+
+.hr {
+  border-color: $white;
+}
+
+.title {
+  font-family: $default_title_font;
+}
+
+.nav {
+  height: 50px;
+  width: 100%;
+  background-color: $red;
+
+  display: grid;
+  place-content: center;
+}
+
+.b_content {
+  display: flex;
+
+  flex-flow: column-reverse;
+  position: relative;
+  > img {
+    display: none;
+  }
+}
+
+@media only screen and (max-width: 1279px) {
+  .codeBackground {
+    overflow: hidden;
+    img {
+      clip-path: none !important;
+      width: 100% !important;
+      height: unset !important;
+    }
+  }
+}
+
+.verticalBlue {
+  background-color: rgba($blue, 0.95);
+  display: grid;
+  place-content: center;
+  //padding: 0 10px;
+  //height: 200px;
+  height: 100%;
+  width: 100%;
+
+  .after {
+    height: 200px;
+    display: grid;
+    place-content: center;
+    width: 100%;
+    img {
+      height: 100px;
+    }
+  }
+}
+
+.secondBlue {
+  display: none;
+}
+
+.content {
+  .container {
+  }
+}
+
+@media only screen and (min-width: 1279px) {
+  @import "./desktop.module.scss";
+}
